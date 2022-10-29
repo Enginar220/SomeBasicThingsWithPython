@@ -2,6 +2,8 @@ from random import randint
 
 determined_number=randint(1,100) # Number that is guessed by computer
 
+
+
 while True :
     
     user_guess = int(input("Take a guess between 1-100:"))
