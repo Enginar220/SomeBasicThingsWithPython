@@ -1,16 +1,16 @@
 """
 DICE ROLLING SIMULATOR
 
-One that reaches firstly 36 points will win.
+One that reaches first 36 points by rolling the dice  will win the game.
 
 """
 #To import randint function from the library will enable the computer "roll" the dice .
 
 from random import randint
 
-total_co=0
+total_co=0 # it is the variable that stands for computer's score
 
-total_us=0
+total_us=0 # it is the variable that stands for user's score
 
 while max(total_co,total_us) < 36 :
     user_dice=input("Type in 'R' for rolling the dice :")
