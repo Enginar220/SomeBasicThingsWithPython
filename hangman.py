@@ -1,13 +1,10 @@
-"""
+# Hangman
 
-Description of the Game;
-User will play the game with the computer.Firstly one word randomly will be determined afterwards user will try to guess the word within the limited contidion
-
-"""
+# User will try to guess the word that's determined by the computer
 
 # User has 6 wrong guess right.
 
-# User will play with the computer
+# User will play with the computer.
 
 
 import random
