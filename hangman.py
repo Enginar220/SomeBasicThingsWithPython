@@ -1,7 +1,7 @@
 """
 
-In the game, users have to enter letter guesses,
-and each user will have a limited number of guesses (a counter variable is needed for limiting the guesses). 
+Description of the Game;
+User will play the game with the computer.Firstly one word randomly will be determined afterwards user will try to guess the word within the limited contidion
 
 """
 
